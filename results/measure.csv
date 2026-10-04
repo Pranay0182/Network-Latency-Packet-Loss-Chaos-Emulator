@@ -1,0 +1,2 @@
+profile,rtt_min,rtt_avg,rtt_max,jitter,loss,tcp_mbps,http_s,udp_loss,udp_jitter_ms,udp_mbps
+broadband,14.059,20.458,27.046,2.896,0,1.426114016,11.751325,0,5.605134604,4.999574407
